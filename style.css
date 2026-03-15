@@ -1,0 +1,40 @@
+body{
+font-family: Arial;
+margin:0;
+background:#111;
+color:white;
+text-align:center;
+}
+
+header{
+background:black;
+padding:20px;
+}
+
+nav a{
+color:white;
+margin:10px;
+text-decoration:none;
+}
+
+.hero{
+padding:100px;
+background:#222;
+}
+
+button{
+padding:10px 20px;
+background:orange;
+border:none;
+cursor:pointer;
+}
+
+.menu{
+padding:50px;
+}
+
+.item{
+background:#333;
+margin:10px;
+padding:20px;
+}
